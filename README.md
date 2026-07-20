@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Fidelsia 
 
-<!--
-**Fidelsia/Fidelsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist and Business Analyst who enjoys turning data into clear, actionable insights; from analysing customer behaviour and building dashboards, to applying machine learning techniques in health and survival analysis.
 
-Here are some ideas to get you started:
+This page showcases the projects I have worked on, spanning business analytics, statistical modelling, and deep learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:** Python, R, SQL, Power BI, Machine Learning, Statistical Modelling, Process Analysis
+
+📫 Reach me at:  frifidelsia@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/fidelsia-fri-378284102/
+
+
+
